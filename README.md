@@ -24,7 +24,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 To sign, submit a pull request on the appropriate file. Please use the format:
 
-`- FirstName LastName ([githubUsername](https://github.com/githubUsername)) - MM/DD/YYYY`
+`- FirstName LastName ([@githubUsername](https://github.com/githubUsername)) - MM/DD/YYYY`
 
 # About
 
