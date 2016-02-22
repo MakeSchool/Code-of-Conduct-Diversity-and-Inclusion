@@ -16,18 +16,24 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 - Ashu Desai ([ashu@makeschool.com](mailto:ashu@makeschool.com))
 - Jeremy Rossmann ([jeremy@makeschool.com](mailto:jeremy@makeschool.com))
+- alternatively: Susan Nesbitt ([susan@makeschool.com](mailto:susan@makeschool.com))
 
-# Signatures
+# Harassment Policy
 
-- [Staff](signatures/staff.md)
-- [Make School '17](signatures/make-school-17.md)
+Harassment of any kind is not acceptable behavior at Make School; it is inconsistent with the commitment to excellence that characterizes Make School’s activities. Make School is committed to creating an environment in which every individual can work, study, and live without being harassed. Harassment may therefore lead to sanctions up to and including termination of employment or student status.
 
-To sign, submit a pull request on the appropriate file. Please use the format:
+Harassment is any conduct, verbal or physical, on or off campus, that has the intent or effect of unreasonably interfering with an individual’s or group’s educational or work performance at Make School or that creates an intimidating, hostile, or offensive education, work, or living environment. Some kinds of harassment are prohibited by civil laws or by Make School policies on conflict of interest and nondiscrimination.
 
-`- FirstName LastName ([@githubUsername](https://github.com/githubUsername)) - MM/DD/YYYY`
+Harassment on the basis of race, ethnicity, nationality, religion, color, sex, sexual orientation, gender identity, national origin, age, disability (physical or mental), genetic information, parental status, marital status, political affiliation, veterans status, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. It includes harassment of an individual in terms of a stereotyped group characteristic, or because of that person’s identification with a particular group.
+
+Sexual harassment may take many forms. Sexual assault and requests for sexual favors that affect educational or employment decisions constitute sexual harassment. However, sexual harassment may also consist of unwanted physical contact, requests for sexual favors, visual displays of degrading sexual images, sexually suggestive conduct, or offensive remarks of a sexual nature.
+
+Make School is committed under this policy to stopping harassment and associated retaliatory behavior. All Make School supervisors have a responsibility to act to stop harassment in the areas under their supervision.
+
+Any member of the Make School community who feels harassed is encouraged to seek assistance and resolution of the complaint. Make School provides a variety of avenues by which an individual who feels harassed may proceed, so that each person may choose an avenue appropriate to his or her particular situation. Make School procedures are intended to protect the rights of both the complainant and the respondent, to protect privacy, and to prevent supervisory reprisal.
 
 # About
 
-Code of Conduct adapted from [Hack Code of Conduct](http://hackcodeofconduct.org/) which was inspired by the [Conference Code of Conduct](http://confcodeofconduct.com/).
+Code of Conduct adapted from [Hack Code of Conduct](http://hackcodeofconduct.org/) which was inspired by the [Conference Code of Conduct](http://confcodeofconduct.com/). The harassment policy has been adapted [MIT's Harassment Policy](http://handbook.mit.edu/harassment).
 
 Licensed under [Creative Commons 4.0 (Attribution, Share Alike)](http://creativecommons.org/licenses/by-sa/4.0/).
