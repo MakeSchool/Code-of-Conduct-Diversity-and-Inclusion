@@ -34,6 +34,6 @@ Any member of the Make School community who feels harassed is encouraged to seek
 
 # About
 
-Code of Conduct adapted from [Hack Code of Conduct](http://hackcodeofconduct.org/) which was inspired by the [Conference Code of Conduct](http://confcodeofconduct.com/). The harassment policy has been adapted [MIT's Harassment Policy](http://handbook.mit.edu/harassment).
+Code of Conduct adapted from [Hack Code of Conduct](http://hackcodeofconduct.org/) which was inspired by the [Conference Code of Conduct](http://confcodeofconduct.com/). The harassment policy has been adapted from [MIT's Harassment Policy](http://handbook.mit.edu/harassment).
 
 Licensed under [Creative Commons 4.0 (Attribution, Share Alike)](http://creativecommons.org/licenses/by-sa/4.0/).
