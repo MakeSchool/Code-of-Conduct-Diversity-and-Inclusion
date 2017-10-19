@@ -4,16 +4,17 @@ Diversity is a key element to the success of organizations and the tech communit
 
 # Code of Conduct
 
-This code of conduct applies to community members and Make School team members in all Make School communities online (including but not limited to Make School student dorms, Make School Slack groups, Twitter, and Facebook), in the Make School office, and at all events hosted by or at Make School.
+Since anywhere you go you are an ambassador for Make School, this code applies to community members and Make School team members in all Make School spaces, such as the Make School office and at all events hosted by or at Make School HQ. This code also extends beyond the walls of Make School HQ and into any space, such as residence halls, field trips/site visits, co-working spaces. This code also extends to digital spaces including social media (Facebook, Twitter, SnapChat, Slack, LinkedIn, Reddit, etc) and your online public persona in general.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, skin color, sex, sexual orientation, gender identity, national origin, age, health (physical or mental), genetic information, parental status, marital status, political affiliation, veteran status, socioeconomic status or background, neuro(a)typicality, appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
-We do not tolerate harassment of community members in any form. Harassment includes offensive verbal comments related to the protected classes above, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention (even without sexual contact). Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed. Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstances. 
+Our community does not tolerate harassment in any form towards any person. Harassment includes offensive verbal comments related to the protected classes above, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention (even without sexual contact). Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed. Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstances.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces.
+Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating this code will be addressed fairly and expediently. Violators may be sanctioned or removed from community spaces.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the founders immediately: 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please immediately contact the Student Experience Lead, one of the founders, or Susan Nesbitt (alternatively):
 
+- Jade Stone ([jade@makeschool.com](mailto:jade@makeschool.com))
 - Ashu Desai ([ashu@makeschool.com](mailto:ashu@makeschool.com))
 - Jeremy Rossmann ([jeremy@makeschool.com](mailto:jeremy@makeschool.com))
 - alternatively: Susan Nesbitt ([susan@makeschool.com](mailto:susan@makeschool.com))
