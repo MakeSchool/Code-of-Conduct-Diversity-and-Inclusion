@@ -14,7 +14,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please immediately contact the Student Experience Lead, one of the founders, or Susan Nesbitt (alternatively):
 
-- Jade Stone ([jade@makeschool.com](mailto:jade@makeschool.com))
+- Megan Dias ([megan.dias@makeschool.com](mailto:megan.dias@makeschool.com))
 - Ashu Desai ([ashu@makeschool.com](mailto:ashu@makeschool.com))
 - Jeremy Rossmann ([jeremy@makeschool.com](mailto:jeremy@makeschool.com))
 - alternatively: Susan Nesbitt ([susan@makeschool.com](mailto:susan@makeschool.com))
